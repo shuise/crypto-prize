@@ -1,4 +1,4 @@
-# give-me-eth
+# cypto prize
 
 1. a website component
 2. just on click
